@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My 1.12.2 Server Hub</title>
+  <style>
+    body { text-align:center; background:#1e1e2f; color:white; font-family:Arial; }
+    a { color:#4facfe; text-decoration:none; }
+  </style>
+</head>
+<body>
+  <h1>🔥 Minecraft 1.12.2 Server 🔥</h1>
+  <p>Version: 1.12.2</p>
+  <p>IP: your-server-ip</p>
+  <p>Max Players: 20</p>
+  <a href="https://www.minecraft.net/en-us/download/server" target="_blank">Download Server .jar</a>
+</body>
+</html>

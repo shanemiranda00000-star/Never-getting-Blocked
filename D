@@ -1,0 +1,6 @@
+git clone https://github.com/yourusername/minecraft-1.12.2-server.git
+cd minecraft-1.12.2-server
+# Add your files
+git add .
+git commit -m "Add server configs and scripts"
+git push
